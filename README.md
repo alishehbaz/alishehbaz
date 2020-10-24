@@ -1,16 +1,90 @@
-### Hi there 👋
+# Hi there, I am [Ali](www.ali.comingsoon)! <img align="right" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-<!--
-**alishehbaz/alishehbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20 year old **Full-Stack Software Developer** who is pursuing **Computer Science** at NYU :purple_heart:
 
-Here are some ideas to get you started:
+#### I create Web Apps, APIs, Desktop Apps, IOT applications, and sometimes whatever I want.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+---
+
+:dart: I'm currently open to work and searching for Spring 2021 and Summer 2021 SWE Internship opportunities.<br>
+:book: I’m currently working on polishing my Frontend Development skills.<br>
+:abacus: I’m currently learning Data Science and Analytics with Python.<br>
+:books: I want to learn loads of stuff and some of that includes Flutter, DevOps and Artificial Intelligence.<br>
+:smiley: Pronouns: He/Him/His<br>
+:zap: Fun fact: I am a FC Barcelona :heart: :blue_heart: fan and I have been watching :soccer: since I was a 6 year old. I could analyze a game very closely. Plus, I am a Potterhead and a MCU Fanatic.<br>
+
+---
+
+ <!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ....
 -->
+
+#### Programming Languages:
+
+<p align="left">
+<img src="https://img.icons8.com/color/30/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/30/000000/python.png"/>
+<img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
+</p>
+
+#### Tech and :wrench: Stack:
+
+<p align="left">
+<img src="https://img.icons8.com/color/30/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/30/000000/css3.png"/>
+<img src="https://img.icons8.com/color/30/000000/nodejs.png"/>
+<img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
+<img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/30/000000/git.png"/>
+<img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/nolan/30/heroku.png"/>
+<!-- <img src="https://img.icons8.com/color/30/000000/firebase.png"/> -->
+<img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/>
+<img src="https://img.icons8.com/color/30/000000/linux.png"/>
+<img src="https://img.icons8.com/color/30/000000/arduino.png"/>
+<!-- <img src="https://img.icons8.com/color/30/000000/graphql.png"/> -->
+
+</p>
+
+#### Databases:
+
+<p align="left">
+<img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/30/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/30/000000/postgreesql.png"/>
+</p>
+
+<!-- #### DevOps:
+<p align="left">
+
+coming soon ;)
+
+<img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/30/000000/kubernetes.png"/>
+<img src="https://img.icons8.com/color/30/000000/docker.png"/>
+
+</p>
+ -->
+
+---
+
+#### You can find me in the 🕸️ :
+
+[<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
+[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume]
+[<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
+[<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
+
+![Profile views](https://gpvc.arturio.dev/alishehbaz)
+
+[linkedin]: https://www.linkedin.com/in/alishehbaz/
+[website]: comingsoon..
+[resume]: uploadingsooon...
+[email]: mailto:alishahbaz072@gmail.com
