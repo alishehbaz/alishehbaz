@@ -1,5 +1,6 @@
-<img align="right" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 # Hi there, I am [Ali](www.ali.comingsoon)! 
+
+<img align="right" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 I am a 20 year old **Full-Stack Software Developer** who is pursuing **Computer Science** at NYU :purple_heart:
 
