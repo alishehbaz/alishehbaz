@@ -89,5 +89,5 @@ coming soon ;)
 
 [linkedin]: https://www.linkedin.com/in/alishehbaz/
 [website]: comingsoon..
-[resume]: uploadingsooon...
+[resume]: (./Ali_Shehbaz.pdf)
 [email]: mailto:alishahbaz072@gmail.com
