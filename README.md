@@ -8,10 +8,10 @@ I am a 20 year old **Full-Stack Software Developer** who is pursuing **Computer 
 
 ---
 
-:dart: I'm currently open to work and searching for Summer 2021 SWE Internship opportunities.<br>
-:book: I’m currently working on polishing my Frontend Development skills.<br>
-:abacus: I’m currently learning Data Science and Analytics with Python.<br>
-:books: I want to learn loads of stuff and some of that includes Flutter, DevOps and Artificial Intelligence.<br>
+:dart: I'm currently open to work and searching for Fall 2021 SWE Internship opportunities.<br>
+:book: I’m currently working on my portfolio site.<br>
+:abacus: I’m currently learning React Native.<br>
+:books: I want to learn loads of stuff and some of that includes Cybersecurity, DevOps and Artificial Intelligence.<br>
 :smiley: Pronouns: He/Him/His<br>
 :zap: Fun fact: I am a FC Barcelona :heart: :blue_heart: fan and I have been watching :soccer: since I was a 6 year old. I could analyze a game very closely. Plus, I am a Potterhead and a MCU Fanatic.<br>
 
@@ -88,6 +88,6 @@ coming soon ;)
 ![Profile views](https://gpvc.arturio.dev/alishehbaz)
 
 [linkedin]: https://www.linkedin.com/in/alishehbaz/
-[website]: comingsoon..
+[website]: https://www.alishehbaz.tech/
 [resume]: (./Ali_Shehbaz.pdf)
 [email]: mailto:alishahbaz072@gmail.com
