@@ -2,7 +2,7 @@
 
 <img align="right" width="25%" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-I am a 20 year old **Full-Stack Software Developer** who is pursuing **Computer Science** at NYU :purple_heart:
+I am a 21 year old **Full-Stack Software Developer** who is pursuing **Computer Science** at NYU :purple_heart:
 
 #### I create Web Apps, APIs, Desktop Apps, IOT applications, and sometimes whatever I want.
 
