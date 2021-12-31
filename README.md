@@ -10,7 +10,7 @@ I am a 21 year old **Full-Stack Software Developer** who is pursuing **Computer 
 
 :dart: I'm currently open to work and searching for Spring 2022 & Summer 2022 SWE Internship opportunities.<br>
 :book: I’m currently working on my portfolio site.<br>
-:abacus: I’m currently learning React Native.<br>
+:abacus: I’m currently learning Docker.<br>
 :books: I want to learn loads of stuff and some of that includes Cybersecurity, DevOps and Artificial Intelligence.<br>
 :smiley: Pronouns: He/Him/His<br>
 :zap: Fun fact: I am a FC Barcelona :heart: :blue_heart: fan and I have been watching :soccer: since I was a 6 year old. I could analyze a game very closely. Plus, I am a Potterhead and a MCU Fanatic.<br>
