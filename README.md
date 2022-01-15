@@ -1,4 +1,4 @@
-# Hi there, I am [Ali](www.ali.comingsoon)! 
+# Hi there, I am [Ali](https://www.linkedin.com/in/alishehbaz/)! 
 
 <img align="right" width="25%" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
