@@ -8,7 +8,7 @@ I am a 21 year old **Full-Stack Software Developer** who is pursuing **Computer 
 
 ---
 
-:dart: I'm currently open to work and searching for Summer 2022 SWE Internship opportunities.<br>
+:dart: I'm currently open to work and searching for Fall 2022 SWE Internship opportunities.<br>
 :book: I’m currently working as a SWE Intern @ Societe Generale. <br>
 :abacus: I’m currently learning Docker.<br>
 :books: I want to learn loads of stuff and some of that includes Cybersecurity, DevOps and Artificial Intelligence.<br>
